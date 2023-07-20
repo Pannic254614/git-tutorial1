@@ -3,3 +3,5 @@
 
 <?php echo "Mahanakorn"; ?>
 <?php echo "Computer Engineering"; ?>
+
+<?php echo "CPE"; ?>
