@@ -1,2 +1,6 @@
 my phone number is 0882348643
+<<<<<<< HEAD
 my email is pannic5005@gmail.com
+=======
+my email is 6411130003@mut.ac.th
+>>>>>>> 8bea308bae2eef0a3efb3565703e393eb55b14a9
